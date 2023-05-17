@@ -10,7 +10,6 @@ import { useNavigation } from "@react-navigation/native";
 import { GooglePlacesAutocomplete } from "react-native-google-places-autocomplete";
 import { ScrollView } from "react-native";
 import MenuComponent from "../components/MenuComponent";
-import { Camps, Events, Hotels, Trips } from "../assets";
 import { PRIMARYCOLOR, SECONDARYTCOLOR } from "../config/colors";
 import {
   FontAwesome5,
